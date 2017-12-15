@@ -1,2 +1,9 @@
 # DailyFreeBits.faucets
-{"title":"DailyFreeBits","cat":"Bitcoin","description":"60 mins 15 satoshi"}
+<ul>
+  <li>currency:Bitcoin</li>
+  <li>Wait(min): 60</li>
+  <li>Min(satoshi): 15</li>
+  <li>Bonus(%): 25</li>
+  <li>Withdraw: Faucethub.io</li>
+</ul>
+
